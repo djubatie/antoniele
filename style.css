@@ -11,4 +11,17 @@ body{
 fotos1 {
     display: flex;
     justify-content: space-around;
+
+}
+
+button {
+    background-color: azure;
+    color: blue;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: aqua;
 }
