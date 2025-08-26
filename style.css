@@ -25,3 +25,15 @@ button {
 button:hover {
     background-color: rgb(0, 89, 255);
 }
+
+.fotos1 {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.fotos1 img {
+ width: 20%;
+ height: auto;
+ margin-bottom: 20px;
+}
